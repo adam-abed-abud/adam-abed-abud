@@ -1,4 +1,4 @@
-👋 Hi, I’m @adam-abed-abud
+👋 Hi, I’m Adam Abed Abud (@adam-abed-abud)
 
 👀 I’m interested in high-performance computing
 
