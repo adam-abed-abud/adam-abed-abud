@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @adam-abed-abud
-- 👀 I’m interested in high-performance computing
-- 🌱 I’m currently learning some machine learning stuff
+👋 Hi, I’m @adam-abed-abud
+
+👀 I’m interested in high-performance computing
+
+🌱 I’m currently learning some machine learning stuff
 
 
 <!---
