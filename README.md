@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I’m Adam Abed Abud (@adam-abed-abud)</h1>
-<h3 align="center">Applied Physics | Computer Engineering </h3>
+<h1 align="center">👋 Hi, I’m Adam (@adam-abed-abud)</h1>
+<h3 align="center">Applied Physics | Computer Engineer </h3>
 
 
 
