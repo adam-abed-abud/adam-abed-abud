@@ -6,7 +6,6 @@
 💬 My social profiles:
 <p align="left">
   <a href="https://twitter.com/Adam_AbedAbud"><img src="https://img.shields.io/badge/Twitter-28a9e2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="https://mastodon.social/@adam_abedabud"><img src="https://img.shields.io/badge/mastodon-28a9e2?style=flat&logo=mastodon&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/adam-abed-abud/"><img src="https://img.shields.io/badge/LinkedIn-2867b2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/adam_abedabud/"><img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
